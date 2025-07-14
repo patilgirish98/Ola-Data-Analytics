@@ -2,10 +2,10 @@
 ## Objective :-
 An interactive dashboard analyzing Ola ride data. It includes total bookings by distance, customer and driver ratings, cancellation ratio, revenue insights, and bookings by vehicle type. Built using Excel and Power BI to support data-driven decisions through clear visualizations.
 
-# Dataset Link
+## Dataset Link :-
 https://github.com/patilgirish98/Ola-Data-Analytics/blob/main/Bookings-100000-Rows%20(1).xlsx
 
-## Segregation of the views:
+## Segregation of the views:-
 1. Overall
 - Ride Volume Over Time
 - Booking Status Breakdown
@@ -22,7 +22,7 @@ https://github.com/patilgirish98/Ola-Data-Analytics/blob/main/Bookings-100000-Ro
 - Driver Ratings
 - Customer Ratings
 
-# Answers:
+## Answers:-
 1. Ride Volume Over Time: A time-series chart showing the number of rides per day/week.
 2. Booking Status Breakdown: A pie or doughnut chart displaying the proportion of different
 booking statuses (success, cancelled by the customer, cancelled by the driver, etc.).
@@ -43,7 +43,7 @@ vehicle types.
 10. Customer vs. Driver Ratings: A scatter plot comparing customer and driver ratings for
 each completed ride, analyzing correlations.
 
-# Dashboard Link :-
+## Dashboard Link :-
 https://github.com/patilgirish98/Ola-Data-Analytics/blob/main/Overall.png
 https://github.com/patilgirish98/Ola-Data-Analytics/blob/main/Vehicle%20Type.png
 https://github.com/patilgirish98/Ola-Data-Analytics/blob/main/Revenue.png
