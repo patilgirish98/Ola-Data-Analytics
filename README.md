@@ -44,8 +44,8 @@ vehicle types.
 each completed ride, analyzing correlations.
 
 ## Dashboard Link :-
-https://github.com/patilgirish98/Ola-Data-Analytics/blob/main/Overall.png
-https://github.com/patilgirish98/Ola-Data-Analytics/blob/main/Vehicle%20Type.png
-https://github.com/patilgirish98/Ola-Data-Analytics/blob/main/Revenue.png
-https://github.com/patilgirish98/Ola-Data-Analytics/blob/main/Cancellation.png
-https://github.com/patilgirish98/Ola-Data-Analytics/blob/main/Ratings.png
+- https://github.com/patilgirish98/Ola-Data-Analytics/blob/main/Overall.png
+- https://github.com/patilgirish98/Ola-Data-Analytics/blob/main/Vehicle%20Type.png
+- https://github.com/patilgirish98/Ola-Data-Analytics/blob/main/Revenue.png
+- https://github.com/patilgirish98/Ola-Data-Analytics/blob/main/Cancellation.png
+- https://github.com/patilgirish98/Ola-Data-Analytics/blob/main/Ratings.png
