@@ -39,3 +39,5 @@ ride distances for different Dates.
 vehicle types.
 10. Customer vs. Driver Ratings: A scatter plot comparing customer and driver ratings for
 each completed ride, analyzing correlations.
+
+# Dashboard Link :- https://github.com/patilgirish98/Ola-Data-Analytics/blob/main/Overall.png
